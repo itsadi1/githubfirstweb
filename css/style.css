@@ -1,11 +1,22 @@
+*{
+    font-size: 25;
+    float: center
+}
 h1{
-    color: blueviolet;
+    color:blanchedalmond;
     font-family: cursive
 }
 body{
     background-color: fuchsia
 }
-text area{
-    width: 50%;
-    height: 100%
+textarea{
+    font-size: 1rem;
+    font-family: fantasy ;
+    color: darkslategray;
+    background-color:burlywood;
+}
+button{
+    background-color:darkred;
+    color: aliceblue;
+    font-style: italic;
 }
