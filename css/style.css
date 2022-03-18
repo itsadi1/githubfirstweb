@@ -1,0 +1,11 @@
+h1{
+    color: blueviolet;
+    font-family: cursive
+}
+body{
+    background-color: fuchsia
+}
+text area{
+    width: 50%;
+    height: 100%
+}
